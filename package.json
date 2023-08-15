@@ -1,0 +1,13 @@
+{
+	"name": "karate-npm-example",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "node karate/test.js"
+	},
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"@karatelabs/karate": "^0.3.1"
+	}
+}
